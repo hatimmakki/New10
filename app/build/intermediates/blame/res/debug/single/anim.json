@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\build\\intermediates\\res\\merged\\debug\\anim\\myanimation.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\src\\main\\res\\anim\\myanimation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\build\\intermediates\\res\\merged\\debug\\anim\\clockwise.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\src\\main\\res\\anim\\clockwise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadefast.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\src\\main\\res\\anim\\fadefast.xml"
+    }
+]

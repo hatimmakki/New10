@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.new10"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.new10.Splash"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.new10.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.new10.Start"
+            android:label="@string/title_activity_start" >
+        </activity>
+        <activity
+            android:name="com.new10.Option"
+            android:label="@string/title_activity_option" >
+        </activity>
+        <activity
+            android:name="com.new10.Ma1"
+            android:label="@string/title_activity_ma1" >
+        </activity>
+        <activity
+            android:name="com.new10.Mt1"
+            android:label="@string/title_activity_mt1" >
+        </activity>
+        <activity
+            android:name="com.new10.Mm1"
+            android:label="@string/title_activity_mm1" >
+        </activity>
+        <activity
+            android:name="com.new10.Ms"
+            android:label="@string/title_activity_ms" >
+        </activity>
+        <activity
+            android:name="com.new10.Ms1"
+            android:label="@string/title_activity_ms1" >
+        </activity>
+        <activity
+            android:name="com.new10.Et1"
+            android:label="@string/title_activity_et1" >
+        </activity>
+        <activity
+            android:name="com.new10.Er1"
+            android:label="@string/title_activity_er1" >
+        </activity>
+        <activity
+            android:name="com.new10.Ev1"
+            android:label="@string/title_activity_ev1" >
+        </activity>
+        <activity
+            android:name="com.new10.Ep1"
+            android:label="@string/title_activity_ep1" >
+        </activity>
+        <activity
+            android:name="com.new10.Sp1"
+            android:label="@string/title_activity_sp1" >
+        </activity>
+        <activity
+            android:name="com.new10.Sc1"
+            android:label="@string/title_activity_sc1" >
+        </activity>
+        <activity
+            android:name="com.new10.Sb1"
+            android:label="@string/title_activity_sb1" >
+        </activity>
+        <activity
+            android:name="com.new10.Mt2"
+            android:label="@string/title_activity_mt2" >
+        </activity>
+        <activity
+            android:name="com.new10.Mt3"
+            android:label="@string/title_activity_mt3" >
+        </activity>
+        <activity
+            android:name="com.new10.Mt4"
+            android:label="@string/title_activity_mt4" >
+        </activity>
+        <activity
+            android:name="com.new10.Mt5"
+            android:label="@string/title_activity_mt5" >
+        </activity>
+        <activity
+            android:name="com.new10.Mt6"
+            android:label="@string/title_activity_mt6" >
+        </activity>
+        <activity
+            android:name="com.new10.Mt7"
+            android:label="@string/title_activity_mt7" >
+        </activity>
+        <activity
+            android:name="com.new10.Mt8"
+            android:label="@string/title_activity_mt8" >
+        </activity>
+        <activity
+            android:name="com.new10.Mt9"
+            android:label="@string/title_activity_mt9" >
+        </activity>
+        <activity
+            android:name="com.new10.Mt10"
+            android:label="@string/title_activity_mt10" >
+        </activity>
+        <activity
+            android:name="com.new10.Ma2"
+            android:label="@string/title_activity_ma2" >
+        </activity>
+        <activity
+            android:name="com.new10.Ma3"
+            android:label="@string/title_activity_ma3" >
+        </activity>
+        <activity
+            android:name="com.new10.Ma4"
+            android:label="@string/title_activity_ma4" >
+        </activity>
+        <activity
+            android:name="com.new10.Ma5"
+            android:label="@string/title_activity_ma5" >
+        </activity>
+        <activity
+            android:name="com.new10.Ma6"
+            android:label="@string/title_activity_ma6" >
+        </activity>
+        <activity
+            android:name="com.new10.Ma7"
+            android:label="@string/title_activity_ma7" >
+        </activity>
+        <activity
+            android:name="com.new10.Ma8"
+            android:label="@string/title_activity_ma8" >
+        </activity>
+        <activity
+            android:name="com.new10.Ma9"
+            android:label="@string/title_activity_ma9" >
+        </activity>
+        <activity
+            android:name="com.new10.Ma10"
+            android:label="@string/title_activity_ma10" >
+        </activity>
+        <activity
+            android:name="com.new10.Mm2"
+            android:label="@string/title_activity_mm2" >
+        </activity>
+        <activity
+            android:name="com.new10.Mm3"
+            android:label="@string/title_activity_mm3" >
+        </activity>
+        <activity
+            android:name="com.new10.Mm4"
+            android:label="@string/title_activity_mm4" >
+        </activity>
+        <activity
+            android:name="com.new10.Mm5"
+            android:label="@string/title_activity_mm5" >
+        </activity>
+        <activity
+            android:name="com.new10.Mm6"
+            android:label="@string/title_activity_mm6" >
+        </activity>
+        <activity
+            android:name="com.new10.Mm7"
+            android:label="@string/title_activity_mm7" >
+        </activity>
+        <activity
+            android:name="com.new10.Mm8"
+            android:label="@string/title_activity_mm8" >
+        </activity>
+        <activity
+            android:name="com.new10.Mm9"
+            android:label="@string/title_activity_mm9" >
+        </activity>
+        <activity
+            android:name="com.new10.Mm10"
+            android:label="@string/title_activity_mm10" >
+        </activity>
+        <activity
+            android:name="com.new10.Ms2"
+            android:label="@string/title_activity_ms2" >
+        </activity>
+        <activity
+            android:name="com.new10.Ms3"
+            android:label="@string/title_activity_ms3" >
+        </activity>
+        <activity
+            android:name="com.new10.Ms4"
+            android:label="@string/title_activity_ms4" >
+        </activity>
+        <activity
+            android:name="com.new10.Ms5"
+            android:label="@string/title_activity_ms5" >
+        </activity>
+        <activity
+            android:name="com.new10.Ms6"
+            android:label="@string/title_activity_ms6" >
+        </activity>
+        <activity
+            android:name="com.new10.Ms7"
+            android:label="@string/title_activity_ms7" >
+        </activity>
+        <activity
+            android:name="com.new10.Ms8"
+            android:label="@string/title_activity_ms8" >
+        </activity>
+        <activity
+            android:name="com.new10.Ms9"
+            android:label="@string/title_activity_ms9" >
+        </activity>
+        <activity
+            android:name="com.new10.Ms10"
+            android:label="@string/title_activity_ms10" >
+        </activity>
+        <activity
+            android:name="com.new10.Et2"
+            android:label="@string/title_activity_et2" >
+        </activity>
+        <activity
+            android:name="com.new10.Et3"
+            android:label="@string/title_activity_et3" >
+        </activity>
+        <activity
+            android:name="com.new10.Et4"
+            android:label="@string/title_activity_et4" >
+        </activity>
+        <activity
+            android:name="com.new10.Et5"
+            android:label="@string/title_activity_et5" >
+        </activity>
+        <activity
+            android:name="com.new10.Et6"
+            android:label="@string/title_activity_et6" >
+        </activity>
+        <activity
+            android:name="com.new10.Et7"
+            android:label="@string/title_activity_et7" >
+        </activity>
+        <activity
+            android:name="com.new10.Et8"
+            android:label="@string/title_activity_et8" >
+        </activity>
+        <activity
+            android:name="com.new10.Et9"
+            android:label="@string/title_activity_et9" >
+        </activity>
+        <activity
+            android:name="com.new10.Et10"
+            android:label="@string/title_activity_et10" >
+        </activity>
+        <activity
+            android:name="com.new10.Em1"
+            android:label="@string/title_activity_em1" >
+        </activity>
+        <activity
+            android:name="com.new10.Em2"
+            android:label="@string/title_activity_em2" >
+        </activity>
+        <activity
+            android:name="com.new10.Em3"
+            android:label="@string/title_activity_em3" >
+        </activity>
+        <activity
+            android:name="com.new10.Em4"
+            android:label="@string/title_activity_em4" >
+        </activity>
+        <activity
+            android:name="com.new10.Em5"
+            android:label="@string/title_activity_em5" >
+        </activity>
+        <activity
+            android:name="com.new10.Em6"
+            android:label="@string/title_activity_em6" >
+        </activity>
+        <activity
+            android:name="com.new10.Em7"
+            android:label="@string/title_activity_em7" >
+        </activity>
+        <activity
+            android:name="com.new10.Em8"
+            android:label="@string/title_activity_em8" >
+        </activity>
+        <activity
+            android:name="com.new10.Em9"
+            android:label="@string/title_activity_em9" >
+        </activity>
+        <activity
+            android:name="com.new10.Em10"
+            android:label="@string/title_activity_em10" >
+        </activity>
+        <activity
+            android:name="com.new10.Ep2"
+            android:label="@string/title_activity_ep2" >
+        </activity>
+        <activity
+            android:name="com.new10.Ep3"
+            android:label="@string/title_activity_ep3" >
+        </activity>
+        <activity
+            android:name="com.new10.Ep4"
+            android:label="@string/title_activity_ep4" >
+        </activity>
+        <activity
+            android:name="com.new10.Ep5"
+            android:label="@string/title_activity_ep5" >
+        </activity>
+        <activity
+            android:name="com.new10.Ep6"
+            android:label="@string/title_activity_ep6" >
+        </activity>
+        <activity
+            android:name="com.new10.Ep7"
+            android:label="@string/title_activity_ep7" >
+        </activity>
+        <activity
+            android:name="com.new10.Ep8"
+            android:label="@string/title_activity_ep8" >
+        </activity>
+        <activity
+            android:name="com.new10.Ep9"
+            android:label="@string/title_activity_ep9" >
+        </activity>
+        <activity
+            android:name="com.new10.Ep10"
+            android:label="@string/title_activity_ep10" >
+        </activity>
+        <activity
+            android:name="com.new10.Sp2"
+            android:label="@string/title_activity_sp2" >
+        </activity>
+        <activity
+            android:name="com.new10.Sp3"
+            android:label="@string/title_activity_sp3" >
+        </activity>
+        <activity
+            android:name="com.new10.Sp4"
+            android:label="@string/title_activity_sp4" >
+        </activity>
+        <activity
+            android:name="com.new10.Sp5"
+            android:label="@string/title_activity_sp5" >
+        </activity>
+        <activity
+            android:name="com.new10.Sp6"
+            android:label="@string/title_activity_sp6" >
+        </activity>
+        <activity
+            android:name="com.new10.Sp7"
+            android:label="@string/title_activity_sp7" >
+        </activity>
+        <activity
+            android:name="com.new10.Sp8"
+            android:label="@string/title_activity_sp8" >
+        </activity>
+        <activity
+            android:name="com.new10.Sp9"
+            android:label="@string/title_activity_sp9" >
+        </activity>
+        <activity
+            android:name="com.new10.Sp10"
+            android:label="@string/title_activity_sp10" >
+        </activity>
+        <activity
+            android:name="com.new10.Sc2"
+            android:label="@string/title_activity_sc2" >
+        </activity>
+        <activity
+            android:name="com.new10.Sc3"
+            android:label="@string/title_activity_sc3" >
+        </activity>
+        <activity
+            android:name="com.new10.Sc4"
+            android:label="@string/title_activity_sc4" >
+        </activity>
+        <activity
+            android:name="com.new10.Sc5"
+            android:label="@string/title_activity_sc5" >
+        </activity>
+        <activity
+            android:name="com.new10.Sc6"
+            android:label="@string/title_activity_sc6" >
+        </activity>
+        <activity
+            android:name="com.new10.Sc7"
+            android:label="@string/title_activity_sc7" >
+        </activity>
+        <activity
+            android:name="com.new10.Sc8"
+            android:label="@string/title_activity_sc8" >
+        </activity>
+        <activity
+            android:name="com.new10.Sc9"
+            android:label="@string/title_activity_sc9" >
+        </activity>
+        <activity
+            android:name="com.new10.Sc10"
+            android:label="@string/title_activity_sc10" >
+        </activity>
+        <activity
+            android:name="com.new10.Sb2"
+            android:label="@string/title_activity_sb2" >
+        </activity>
+        <activity
+            android:name="com.new10.Sb3"
+            android:label="@string/title_activity_sb3" >
+        </activity>
+        <activity
+            android:name="com.new10.Sb4"
+            android:label="@string/title_activity_sb4" >
+        </activity>
+        <activity
+            android:name="com.new10.Sb5"
+            android:label="@string/title_activity_sb5" >
+        </activity>
+        <activity
+            android:name="com.new10.Sb6"
+            android:label="@string/title_activity_sb6" >
+        </activity>
+        <activity
+            android:name="com.new10.Sb7"
+            android:label="@string/title_activity_sb7" >
+        </activity>
+        <activity
+            android:name="com.new10.Sb8"
+            android:label="@string/title_activity_sb8" >
+        </activity>
+        <activity
+            android:name="com.new10.Sb9"
+            android:label="@string/title_activity_sb9" >
+        </activity>
+        <activity
+            android:name="com.new10.Sb10"
+            android:label="@string/title_activity_sb10" >
+        </activity>
+        <activity
+            android:name="com.new10.Result"
+            android:label="@string/title_activity_result" >
+        </activity>
+    </application>
+
+</manifest>

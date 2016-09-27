@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\trig.jpg",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\src\\main\\res\\drawable-mdpi\\trig.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg.jpg",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\src\\main\\res\\drawable-mdpi\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\option.jpg",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\src\\main\\res\\drawable-mdpi\\option.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\classroom.jpg",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\src\\main\\res\\drawable-mdpi\\classroom.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\opt.jpg",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\src\\main\\res\\drawable-mdpi\\opt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\origin.jpg",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\New10\\app\\src\\main\\res\\drawable-mdpi\\origin.jpg"
+    }
+]
